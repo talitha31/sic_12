@@ -1,0 +1,1 @@
+print("Halo, salam kenal semua! namaku Talitha")
